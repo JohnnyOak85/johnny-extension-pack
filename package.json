@@ -1,0 +1,34 @@
+{
+  "name": "johnny-extension-pack",
+  "displayName": "Johnny Extension Pack",
+  "description": "Extensions I use",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "equinusocio.vsc-community-material-theme",
+    "mikestead.dotenv",
+    "editorconfig.editorconfig",
+    "ritwickdey.liveserver",
+    "yzhang.markdown-all-in-one",
+    "leizongmin.node-module-intellisense",
+    "eg2.vscode-npm-script",
+    "ionutvmi.path-autocomplete",
+    "mechatroner.rainbow-csv",
+    "extr0py.vscode-relative-line-numbers",
+    "ipatalas.vscode-postfix-ts",
+    "formulahendry.auto-rename-tag",
+    "aaron-bond.better-comments",
+    "alefragnani.Bookmarks",
+    "streetsidesoftware.code-spell-checker",
+    "jasonlhy.hungry-delete",
+    "shardulm94.trailing-spaces",
+    "foxundermoon.shell-format"
+  ]
+}
